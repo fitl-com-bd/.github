@@ -13,7 +13,7 @@ Moneybag provides comprehensive payment integration solutions through our divers
 | [moneybag-sdk-java](https://github.com/fitl-com-bd/moneybag-sdk-java) | Java 8+ | Maven/Gradle | [com.moneybag:sdk](https://search.maven.org/artifact/com.moneybag/sdk) |
 | [moneybag-sdk-dotnet](https://github.com/fitl-com-bd/moneybag-sdk-dotnet) | .NET Standard 2.0+ | NuGet | [Moneybag.SDK](https://www.nuget.org/packages/Moneybag.SDK) |
 | [moneybag-sdk-ruby](https://github.com/fitl-com-bd/moneybag-sdk-ruby) | Ruby 2.5+ | RubyGems | [moneybag-sdk](https://rubygems.org/gems/moneybag-sdk) |
-| [moneybag-sdk-go](https://github.com/fitl-com-bd/moneybag-sdk-go) | Go 1.16+ | Go Modules | [github.com/moneybag-sdk/moneybag-sdk-go](https://pkg.go.dev/github.com/moneybag-sdk/moneybag-sdk-go) |
+| [moneybag-sdk-go](https://github.com/fitl-com-bd/moneybag-sdk-go) | Go 1.16+ | Go Modules | [github.com/fitl-com-bd/moneybag-sdk-go](https://pkg.go.dev/github.com/fitl-com-bd/moneybag-sdk-go) |
 
 ### Mobile SDKs
 | SDK | Platform | Distribution | Package |
